@@ -1,12 +1,13 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ZorkAlike
 {
-    class Program
+    class program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("You are the dungeon master! Anders");
+
         }
     }
 }
